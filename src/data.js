@@ -18,6 +18,12 @@ const data = {
       price: 2500,
       image:
         "https://cdn11.bigcommerce.com/s-ufhcuzfxw9/images/stencil/500x659/products/13070/16561/Orion_SpaceProbe_II_76_mm_Altazimuth_Reflector_Telescope___51855.1506535242.jpg?c=2",
+    },{
+      id: "4",
+      name: "Katana Sword",
+      price: 1600,
+      image:
+        "https://www.swordsoftheeast.com/images/products/detail/KTN5.1.jpg",
     },
   ],
 };
